@@ -1,5 +1,6 @@
 # Исаак Ньютон 
-![Ньютон](https://yandex.ru/images/search?pos=8&img_url=https%3A%2F%2Fcontent.assets.pressassociation.io%2F2017%2F12%2F08200439%2F53069e89-8631-4ec4-a32d-c49f496c3032.jpg&text=%D0%BD%D1%8C%D1%8E%D1%82%D0%BE%D0%BD%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8&rpt=simage&lr=193&source=wiz&stype=image)
+
+![Ньютон](https://imgix.ranker.com/user_node_img/50031/1000605331/original/sir-isaac-newton-and-_39_s-discovered-gravity-when-an-apple-fell-on-his-head-photo-u3?w=650&amp;q=50&amp;fm=pjpg&amp;fit=crop&amp;crop=faces)
 
 ## Биография
 **Английский физик, математик, механик и астроном.**
