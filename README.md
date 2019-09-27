@@ -1,5 +1,5 @@
 # Исаак Ньютон 
-![](https://yandex.ru/images/search?pos=13&from=tabbar&img_url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-pdb%2F1615223%2Fc7dbdf0e-ab59-4b47-8f01-df586e27c818%2Fs1200%3Fwebp%3Dfalse&text=%D0%B8%D1%81%D0%B0%D0%B0%D0%BA%20%D0%BD%D1%8C%D1%8E%D1%82%D0%BE%D0%BD&rpt=simage)
+![Ньютон](https://yandex.ru/images/search?pos=13&from=tabbar&img_url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-pdb%2F1615223%2Fc7dbdf0e-ab59-4b47-8f01-df586e27c818%2Fs1200%3Fwebp%3Dfalse&text=%D0%B8%D1%81%D0%B0%D0%B0%D0%BA%20%D0%BD%D1%8C%D1%8E%D1%82%D0%BE%D0%BD&rpt=simage)
 
 ## Биография
 **Английский физик, математик, механик и астроном.**
